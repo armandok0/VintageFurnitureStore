@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vintagure</title>
+    <link
+      rel="stylesheet"
+      href="/Kostas_Armando_E20073/my_files/repeated/styles.css"
+    />
+    <style>
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      h2 {
+        font-size: 30px;
+        margin-bottom: 20px;
+      }
+
+      p {
+        margin-top: 10px;
+        font-size: 20px;
+        margin-bottom: 20px;
+        text-align: justify;
+      }
+
+      section {
+        background-color: #e4e2d6;
+      }
+
+      .container {
+        color: #a68c62;
+        max-width: 1200px;
+        margin: auto;
+        padding: 20px;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        grid-gap: 20px;
+      }
+
+      .grid-item {
+        text-align: center;
+      }
+
+      #products .grid-item img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+      }
+
+      .responsive-photo {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+      }
+
+      .call-button {
+        display: inline-block;
+        padding: 12px 24px;
+        background-color: #a68c62;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+      }
+
+      /* Desktop View */
+      @media (min-width: 1100px) {
+        #who-we-are .grid {
+          grid-template-columns: repeat(2, minmax(200px, 1fr));
+        }
+
+        #programs .grid {
+          grid-template-columns: repeat(4, minmax(200px, 1fr));
+        }
+      }
+
+      /* Tablet View */
+      @media (max-width: 1100px) {
+        #who-are-we .grid {
+          grid-template-columns: repeat(1, 1fr);
+        }
+      }
+
+      /* Mobile View  */
+      @media (max-width: 780px) {
+        #who-are-we .grid {
+          grid-template-columns: repeat(1, 1fr);
+        }
+
+        #programs .grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="header-placeholder"></div>
+
+    <section id="who-are-we">
+      <div class="container">
+        <div class="grid">
+          <div class="grid-item">
+            <img
+              src="/Kostas_Armando_E20073/my_files/images/who-are-we.jpg"
+              alt="Who We Are"
+              class="responsive-photo"
+            />
+          </div>
+          <div class="grid-item">
+            <p>
+              A new proposal, with a retro aesthetic with, creativity, taste and
+              love for everything vintage.We are here to provide you any kind of
+              Vintage Furniture and make your house a creative place.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="products">
+      <div class="container">
+        <h2>Find to Us</h2>
+        <div class="grid">
+          <div class="grid-item">
+            <img
+              src="/Kostas_Armando_E20073/my_files/images/sofa.jpg"
+              alt="Seatings"
+            />
+            <h3>Seatings</h3>
+          </div>
+          <div class="grid-item">
+            <img
+              src="/Kostas_Armando_E20073/my_files/images/tables.jpg"
+              alt="Tables"
+            />
+            <h3>Tables</h3>
+          </div>
+          <div class="grid-item">
+            <img
+              src="/Kostas_Armando_E20073/my_files/images/storage.jpg"
+              alt="Storage"
+            />
+            <h3>Storage</h3>
+          </div>
+          <div class="grid-item">
+            <img
+              src="/Kostas_Armando_E20073/my_files/images/lighting.webp"
+              alt="Lighting"
+            />
+            <h3>Lighting</h3>
+          </div>
+        </div>
+        <a
+          href="\Kostas_Armando_E20073\my_files\php\products_page.php"
+          class="call-button"
+          >Shop</a
+        >
+      </div>
+    </section>
+
+    <div id="footer-placeholder"></div>
+    <script src="/Kostas_Armando_E20073/my_files/repeated/script.js"></script>
+  </body>
+</html>

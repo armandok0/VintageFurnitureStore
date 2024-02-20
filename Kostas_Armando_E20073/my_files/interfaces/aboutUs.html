@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vintagure</title>
+    <link
+      rel="stylesheet"
+      href="/Kostas_Armando_E20073/my_files/repeated/styles.css"
+    />
+    <style>
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .container {
+        max-width: 1200px;
+        margin: auto;
+        padding: 20px;
+      }
+
+      h2 {
+        font-size: 30px;
+        margin-bottom: 20px;
+      }
+
+      p {
+        font-size: 18px;
+        text-align: justify;
+        line-height: 1.5;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        grid-gap: 20px;
+      }
+
+      .grid-item {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        text-align: center;
+      }
+
+      .grid-item img {
+        border-radius: 3%;
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+      }
+
+      #human-resources {
+        background-color: #e4e2d6;
+        color:#a68c62;
+      }
+
+      #human-resources .grid-item {
+        text-align: left;
+      }
+
+      #human-resources h3 {
+        margin-top: 0;
+      }
+
+      #about-us{
+       color:#a68c62;
+        background-color: #e4e2d6;
+      }
+
+      /* Desktop View */
+      @media (min-width: 1100px) {
+        #about-us .grid {
+          grid-template-columns: repeat(3, minmax(200px, 1fr));
+        }
+
+        #human-resources .grid {
+          grid-template-columns: repeat(2, minmax(200px, 1fr));
+        }
+      }
+
+      /* Tablet View */
+      @media (max-width: 1100px) {
+        #about-us .grid {
+          grid-template-columns: repeat(1, 1fr);
+        }
+
+        #human-resources .grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+
+      /* Mobile View  */
+      @media (max-width: 780px) {
+ 
+
+        #human-resources .grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="header-placeholder"></div>
+    
+    <section id="about-us">
+      <div class="container">
+        <h2>About Us</h2>
+        <div class="grid">
+          <div class="grid-item">
+            <h3>Our Philosophy</h3>
+            <p>
+            At Vintagure, we believe in the timeless beauty and craftsmanship of vintage pieces. Our philosophy revolves around preserving the charm of the past while integrating it seamlessly into modern lifestyles.
+            </p>
+          </div>
+          <div class="grid-item">
+            <h3>Our Vision</h3>
+            <p>
+            We aspire to be recognized as a brand that celebrates the artistry and history behind each piece, offering a curated selection that resonates with individuals who appreciate the elegance of the past.
+            </p>
+          </div>
+          <div class="grid-item">
+            <h3>Our Goal</h3>
+            <p>
+            We strive to be a trusted source for those who seek authenticity, quality, and a connection to the past in their home decor. Our commitment is to offer exceptional pieces that stand the test of time.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="human-resources">
+      <div class="container">
+        <h2>Human Resources</h2>
+        <div class="grid">
+          <div class="grid-item">
+            <h3>Support Department</h3>
+            <img
+              src="/Kostas_Armando_E20073/my_files/images/costumer-service.jpg"
+              alt="Support Department"
+            />
+            <p>
+                We value customer satisfaction and are committed to addressing inquiries promptly and effectively.
+            </p>
+          </div>
+          <div class="grid-item">
+            <h3>Marketing Department</h3>
+            <img
+              src="/Kostas_Armando_E20073/my_files/images/marketing.png"
+              alt="Marketing Department"
+            />
+            <p>
+                Through various channels, we aim to connect with individuals who share our passion for timeless design and the allure of vintage furniture.
+            </p>
+          </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div id="footer-placeholder"></div>
+    <script src="/Kostas_Armando_E20073/my_files/repeated/script.js"></script>
+  </body>
+</html>

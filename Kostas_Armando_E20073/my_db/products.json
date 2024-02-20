@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "65b5107e1c44496a440abcfa"
+  },
+  "category": "Seatings",
+  "name": "20th Century Napoleon III Slipper Chai",
+  "info": "Beautiful ( Scandinavian ) Napoleon lll chair.\r\nThis chair is totally reupholstered with the brique ton sur ton jacquard velvet in the 70s. Webbing and springs are all in good condition.\r\nOverall the chair sits and supports good, fabric is very clean and therefor in good condition. Please note that we have two similar pieces in our gallery.",
+  "price": 200,
+  "color": "Coral",
+  "quantity": 5,
+  "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\s1.jpg",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "65b5114b1c44496a440abcfb"
+  },
+  "category": "Seatings",
+  "name": "Early Egg Swivel Armchair by Arne Jacobsen",
+  "info": "Early ‘Egg’ armchair designed by Arne Jacobsen for Fritz Hansen, Denmark 1958. This piece features the original black leather upholstery and the first edition alumium base. Arne Jacobsen designed and built the Royal Hotel in Copenhagen and also designed much of the furniture and lighting, including these chairs. Our example has a soft overall patina and remains in a very good well presented condition. Collector’s item.",
+  "price": 200,
+  "color": "Black",
+  "quantity": 1,
+  "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\s2.jpg",
+  "reviews": [
+    {
+      "user_id": {
+        "$oid": "65b4f30c1c44496a440abcf2"
+      },
+      "rating": 3,
+      "comment": "Good product"
+    },
+    {
+      "user_id": {
+        "$oid": "65b4f30c1c44496a440abcf2"
+      },
+      "rating": 5,
+      "comment": "Best Chair!!!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b511e11c44496a440abcfc"
+  },
+  "category": "Seatings",
+  "name": "Sam Leather Armchairs by Ewald Schillig",
+  "info": "The Sam armchair by Willi Schillig is covered with a brown real leather and is on a round metal foot. The classic design distinguishes it.",
+  "price": 160,
+  "color": "Brown",
+  "quantity": 4,
+  "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\s3.jpg",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "65b512751c44496a440abcfd"
+  },
+  "category": "Seatings",
+  "name": "Mid-Century Scandinavian Lounge Chairs attributed to Torbjørn Afdal",
+  "info": "Rare lounge chairs by Torbjørn Afdal model &quot;Studio open&quot;, designed in 1965. These chairs consist of a rosewood frame with bouclé cushions. The chairs have beautiful details and were designed with an impressive sense for quality. Condition: The frames are in a very good original condition with light signs of use and partly bleached. One of the chair's cushions seems to have been replaced and are slightly softer than the other cushions. The cushions are reupholstered in white bouclé fabric.",
+  "price": 400,
+  "color": "White",
+  "quantity": 4,
+  "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\s4.jpg",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "65b513731c44496a440abcfe"
+  },
+  "category": "Tables",
+  "name": "Mactan or Fossil Stone Coffee Table by Magnussen Ponte",
+  "info": "Very cute coffee or side table, fabricated in the 80's.\r\nIn this size it is very hard to find.\r\n\r\nThis stunning table is made of polished edged Mactan stone or Fossil stone.",
+  "price": 200,
+  "color": "Beige",
+  "quantity": 3,
+  "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\t1.jpg",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "65b514091c44496a440abd03"
+  },
+  "category": "Tables",
+  "name": "Art Deco Round Oak Dining Table with Black Wood Details",
+  "info": "1940s Art Deco Oak Round Table, Black Wood Details, Octagonal Leg, Extendable Extendable Art Deco round oak table. The table is in good condition following conservative restoration. The diameter is 120cm and can be extended to a maximum of 140cm. The rotary mechanism allows the extension of the diameter. This mechanism divide the wood in different sections to slide outwards or inwards. The video and photos show the mechanism. The base is octagonal and is enriched with a black ebonized profile like the central leg and the edge of the table top.",
+  "price": 150,
+  "color": "Brown, black",
+  "quantity": 1,
+  "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\t2.jpg",
+  "reviews": [
+    {
+      "user_id": {
+        "$oid": "65b4f30c1c44496a440abcf2"
+      },
+      "rating": 5,
+      "comment": "Amazing..."
+    },
+    {
+      "user_id": {
+        "$oid": "65b4f30c1c44496a440abcf2"
+      },
+      "rating": 4,
+      "comment": "Seams Greay!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b514921c44496a440abd04"
+  },
+  "category": "Tables",
+  "name": "Burr Walnut Console Table, 1920s",
+  "info": "An absolutely stunning antique burr walnut console / side table. This was made in England, it dates from the 1920-30’s.\r\n\r\nIt is of superb quality and is a great size. The burr walnut grain patterns and colour tones are gorgeous, this has beautiful and intricate carving throughout. It sits on cabriole legs with acanthus leaf carving, the top edges are carved and the top is cross banded. The drawers are felt lined, they have high quality brass handles and fine, hand cut dovetailed joints.\r\n\r\nWe have had this recently re-polished, the condition is excellent.",
+  "price": 150,
+  "color": "Brown",
+  "quantity": 1,
+  "imageFilePath": "/Kostas_Armando_E20073\\my_files\\images\\t3.jpg",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "65b5154e1c44496a440abd05"
+  },
+  "category": "Tables",
+  "name": "Mid-Century Modern Teak and Glass Coffee Table attributed to Sven Ellekaer",
+  "info": "Round Coffee table in glass and Teak Plywood designed by Sven Ellekaer for Christian Linnebergs Møbelfabrik. Denmark, 1960s. Excellent vintage condition, the wood is refinished though it may present unique traces of use and time. Bent plywood was one of the sixties most revolutionary materials, giving the furniture posibilities and curvatures that would be impossible with any other wood product. The use of this material plus the quality of the teak wood render this table as one example of classic, timeless sixties design.",
+  "price": 200,
+  "color": "Brown, charcoal",
+  "quantity": 3,
+  "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\t4.jpg",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "65b516771c44496a440abd06"
+  },
+  "category": "Storage",
+  "name": "Mid-Century Teak Drinks Cabinet from Nathan, 1960s",
+  "info": "A midcentury teak drinks cabinet/highboard made in teak with a cupboard to the base, open shelving above, two drawers and a drop front bar.",
+  "price": 300,
+  "color": "Brown",
+  "quantity": 5,
+  "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\st1.jpg",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "65b516961c44496a440abd09"
+  },
+  "category": "Lighting",
+  "name": "Mid-Century Murano De Majo Pendant Light,",
+  "info": "Ceiling light by Murano De Majo, Italy 1970s. Beyond beautiful with its brown coloured trim. Wire is adjustable to ceiling.",
+  "price": 80,
+  "color": "white",
+  "quantity": 10,
+  "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\l1.jpg",
+  "reviews": [
+    {
+      "user_id": {
+        "$oid": "65b4f30c1c44496a440abcf2"
+      },
+      "rating": 5,
+      "comment": "The best"
+    }
+  ],
+  "status": "cancelled"
+}]

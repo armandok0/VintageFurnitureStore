@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "65b4f30c1c44496a440abcf2"
+  },
+  "name": "User's Name",
+  "username": "user1",
+  "email": "updateduser1@gmail.com",
+  "password": "$2y$10$iyO2E7bqG3bs8./d8nyINeiW1A5iqhBqDXHEMS6zqocJbCKyJzFCu",
+  "role": "user",
+  "login_history": [
+    {
+      "loginTime": "2024-01-27 13:48:06",
+      "logoutTime": "2024-01-27 13:49:33",
+      "duration": 87,
+      "durationFormatted": "1 minute 27 seconds"
+    },
+    {
+      "loginTime": "2024-01-27 13:49:49",
+      "logoutTime": "2024-01-27 13:50:00",
+      "duration": 11,
+      "durationFormatted": "11 seconds"
+    },
+    {
+      "loginTime": "2024-01-27 13:57:27",
+      "logoutTime": "2024-01-27 14:23:13",
+      "duration": 1546,
+      "durationFormatted": "25 minutes 46 seconds"
+    },
+    {
+      "loginTime": "2024-01-27 17:01:26",
+      "logoutTime": "2024-01-27 17:35:26",
+      "duration": 2040,
+      "durationFormatted": "34 minutes"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b4f9dc1c44496a440abcf3"
+  },
+  "name": "User's Name 2",
+  "username": "user2",
+  "email": "updateduser2@gmail.com",
+  "password": "$2y$10$ycIY4Chunv5mqJhoDQoj5OUZfxafs6brirhC9kfDre.DmbxiYM5Kq",
+  "role": "user",
+  "login_history": []
+},
+{
+  "_id": {
+    "$oid": "65b4fa641c44496a440abcf6"
+  },
+  "name": "Admin΄s Name",
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2y$10$pbibyoPJ1LbRSAG8ZL5pketDznFv9UD5STkNmyHsl8R8OgMv9tmma",
+  "role": "admin",
+  "login_history": [
+    {
+      "loginTime": "2024-01-27 14:23:32",
+      "logoutTime": "2024-01-27 14:46:21",
+      "duration": 1369,
+      "durationFormatted": "22 minutes 49 seconds"
+    },
+    {
+      "loginTime": "2024-01-27 14:52:33",
+      "logoutTime": "2024-01-27 15:04:42",
+      "duration": 729,
+      "durationFormatted": "12 minutes 9 seconds"
+    },
+    {
+      "loginTime": "2024-01-27 15:05:51",
+      "logoutTime": null,
+      "duration": null
+    },
+    {
+      "loginTime": "2024-01-27 17:35:32",
+      "logoutTime": null,
+      "duration": null
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65b50d9c1c44496a440abcf9"
+  },
+  "name": "User's Name 4",
+  "username": "user4",
+  "email": "user4@gmail.com",
+  "password": "$2y$10$d1kuJTacwDjQkWn3xpq2xuo57bVzU8.5TIpbyUuQEoR2vJcNppmO.",
+  "role": "user",
+  "login_history": [
+    {
+      "loginTime": "2024-01-27 22:34:04",
+      "logoutTime": "2024-01-27 22:34:10",
+      "duration": 6,
+      "durationFormatted": "6 seconds"
+    }
+  ]
+}]

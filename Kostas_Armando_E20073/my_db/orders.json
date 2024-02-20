@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "65b5280c1c44496a440abd0e"
+  },
+  "name": "User's name",
+  "surname": "User's surname",
+  "delivery_place": "User's delivery place",
+  "email": "useremail@gmail.com",
+  "phone_number": "6996885854",
+  "order_details": {
+    "65b516961c44496a440abd09": {
+      "_id": {
+        "$oid": "65b516961c44496a440abd09"
+      },
+      "category": "Lighting",
+      "name": "Mid-Century Murano De Majo Pendant Light,",
+      "info": "Ceiling light by Murano De Majo, Italy 1970s. Beyond beautiful with its brown coloured trim. Wire is adjustable to ceiling.",
+      "price": 80,
+      "color": "white",
+      "quantity": 1,
+      "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\l1.jpg",
+      "reviews": [],
+      "reserved_until": 1706457233
+    },
+    "65b5114b1c44496a440abcfb": {
+      "_id": {
+        "$oid": "65b5114b1c44496a440abcfb"
+      },
+      "category": "Seatings",
+      "name": "Early Egg Swivel Armchair by Arne Jacobsen",
+      "info": "Early ‘Egg’ armchair designed by Arne Jacobsen for Fritz Hansen, Denmark 1958. This piece features the original black leather upholstery and the first edition alumium base. Arne Jacobsen designed and built the Royal Hotel in Copenhagen and also designed much of the furniture and lighting, including these chairs. Our example has a soft overall patina and remains in a very good well presented condition. Collector’s item.",
+      "price": 200,
+      "color": "Black",
+      "quantity": 1,
+      "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\s2.jpg",
+      "reviews": [],
+      "reserved_until": 1706457233
+    }
+  },
+  "total_price": 280,
+  "status": "ordered",
+  "order_date": {
+    "$date": "2024-01-27T15:58:04.792Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b5292c1c44496a440abd0f"
+  },
+  "name": "Armando",
+  "surname": "Kostas",
+  "delivery_place": "Pireaus",
+  "email": "armandok163@gmail.com",
+  "phone_number": "6996884512",
+  "order_details": {
+    "65b5114b1c44496a440abcfb": {
+      "_id": {
+        "$oid": "65b5114b1c44496a440abcfb"
+      },
+      "category": "Seatings",
+      "name": "Early Egg Swivel Armchair by Arne Jacobsen",
+      "info": "Early ‘Egg’ armchair designed by Arne Jacobsen for Fritz Hansen, Denmark 1958. This piece features the original black leather upholstery and the first edition alumium base. Arne Jacobsen designed and built the Royal Hotel in Copenhagen and also designed much of the furniture and lighting, including these chairs. Our example has a soft overall patina and remains in a very good well presented condition. Collector’s item.",
+      "price": 200,
+      "color": "Black",
+      "quantity": 1,
+      "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\s2.jpg",
+      "reviews": [],
+      "reserved_until": 1706457739
+    },
+    "65b514091c44496a440abd03": {
+      "_id": {
+        "$oid": "65b514091c44496a440abd03"
+      },
+      "category": "Tables",
+      "name": "Art Deco Round Oak Dining Table with Black Wood Details",
+      "info": "1940s Art Deco Oak Round Table, Black Wood Details, Octagonal Leg, Extendable Extendable Art Deco round oak table. The table is in good condition following conservative restoration. The diameter is 120cm and can be extended to a maximum of 140cm. The rotary mechanism allows the extension of the diameter. This mechanism divide the wood in different sections to slide outwards or inwards. The video and photos show the mechanism. The base is octagonal and is enriched with a black ebonized profile like the central leg and the edge of the table top.",
+      "price": 150,
+      "color": "Brown, black",
+      "quantity": 1,
+      "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\t2.jpg",
+      "reviews": [],
+      "reserved_until": 1706457739
+    }
+  },
+  "total_price": 350,
+  "status": "cancelled",
+  "order_date": {
+    "$date": "2024-01-27T16:02:52.183Z"
+  },
+  "user_id": {
+    "$oid": "65b4f30c1c44496a440abcf2"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b52a261c44496a440abd11"
+  },
+  "name": "Armando",
+  "surname": "Kostas",
+  "delivery_place": "Pireaus",
+  "email": "armandok163@gmail.com",
+  "phone_number": "6996884512",
+  "order_details": {
+    "65b516961c44496a440abd09": {
+      "_id": {
+        "$oid": "65b516961c44496a440abd09"
+      },
+      "category": "Lighting",
+      "name": "Mid-Century Murano De Majo Pendant Light,",
+      "info": "Ceiling light by Murano De Majo, Italy 1970s. Beyond beautiful with its brown coloured trim. Wire is adjustable to ceiling.",
+      "price": 80,
+      "color": "white",
+      "quantity": 1,
+      "imageFilePath": "\\Kostas_Armando_E20073\\my_files\\images\\l1.jpg",
+      "reviews": [],
+      "reserved_until": 1706457997
+    }
+  },
+  "total_price": 80,
+  "status": "ordered",
+  "order_date": {
+    "$date": "2024-01-27T16:07:02.879Z"
+  },
+  "user_id": {
+    "$oid": "65b4f30c1c44496a440abcf2"
+  }
+}]
