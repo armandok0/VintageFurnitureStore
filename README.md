@@ -26,3 +26,5 @@ mongoimport --db Store --collection survey --jsonArray --file C:\xampp\htdocs\Ko
 Συνδεόμαστε ως διαχειριστής με τα παρακάτω στοιχεία:
 Όνομα Χρήστη: admin
 Κωδικός: 12345678
+### 
+![GitHub Logo](Kostas_Armando_E20073/my_files/images/homePage.png)
